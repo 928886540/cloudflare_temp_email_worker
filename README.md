@@ -2,6 +2,13 @@
 
 这是一个基于 [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) 后端进行魔改后的 `worker.js` 包。
 
+当前由 LeonMinGod 维护：
+
+- 完整源码与仙侠风前端：<https://github.com/928886540/cloudflare_temp_email>
+- 独立 Worker 部署包：<https://github.com/928886540/cloudflare_temp_email_worker>
+
+本仓库的 `worker.js` 与完整源码仓库的 `worker/dist_worker.js` 保持一致，Telegram 邮件通知时间显示为北京时间（GMT+8）。
+
 ## 这是什么
 
 这个仓库不包含完整项目源码，也不是完整部署包。
